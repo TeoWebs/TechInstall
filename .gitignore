@@ -1,0 +1,19 @@
+
+# Instaladores ejecutables: no subir a GitHub
+Instaladores/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Entorno local y secretos
+.env
+.env.*
+!.env.example
+
+# Archivos temporales
+*.log
+.DS_Store
+Thumbs.db

@@ -1,0 +1,44 @@
+{
+    "programas": [
+        {
+            "nombre": "Google Chrome",
+            "categoria": "Navegadores",
+            "archivo": "Instaladores/Navegadores/GoogleChromeStandaloneEnterprise64.msi",
+            "argumentos": ["/qn", "/norestart"]
+        },
+        
+{
+    "nombre": "Mozilla Firefox",
+    "categoria": "Navegadores",
+    "archivo": "Instaladores/Navegadores/Firefox Setup 158.0.exe",
+    "argumentos": ["-ms"]
+},
+
+{
+    "nombre": "Brave Browser",
+    "categoria": "Navegadores",
+    "archivo": "Instaladores/Navegadores/BraveBrowserSetup-BRV090.exe",
+    "argumentos": ["/silent", "/install"]
+},
+
+
+        {
+            "nombre": "VLC Media Player",
+            "categoria": "Multimedia",
+            "archivo": "Instaladores/Multimedia/vlc_installer.exe",
+            "argumentos": ["/L=1033", "/S"]
+        },
+        {
+            "nombre": "Adobe Acrobat Reader",
+            "categoria": "PDF",
+            "archivo": "Instaladores/PDF/acrobat_reader.exe",
+            "argumentos": ["/sAll", "/rs", "/rps", "/msi", "/norestart"]
+        },
+        {
+            "nombre": "7-Zip",
+            "categoria": "Utilidades",
+            "archivo": "Instaladores/Utilidades/7zip_installer.exe",
+            "argumentos": ["/S"]
+        }
+    ]
+}
