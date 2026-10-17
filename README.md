@@ -6,6 +6,18 @@ TechInstall es una aplicación de escritorio desarrollada en Python que facilita
 
 El proyecto busca simplificar la preparación de computadoras mediante una interfaz gráfica organizada por categorías, detección de aplicaciones instaladas y ejecución de instaladores disponibles.
 
+
+## Vista previa
+
+### Ventana principal
+
+![Ventana principal de TechInstall](screenshots/principal.png)
+
+### Proceso de instalación
+
+![Ventana de instalación de TechInstall](screenshots/instalacion.png)
+
+
 ## Características
 
 - **Interfaz gráfica:** diseñada con CustomTkinter.
